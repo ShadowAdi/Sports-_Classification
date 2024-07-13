@@ -12,4 +12,5 @@ Let’s Now talk about what i am going to do. As I Say Earlier CNN works for Ima
 We are going to perform Sports Classification(You can see project on Github). Our Model going to help us to predict 100 different sports from an image.
 
 [Medium Profile](https://medium.com/@shadowshukla76/sports-classification-using-efficientnetb0-cec7455d7cbb)
-[Real Demo](https://sports-classification-jkc5u2swp6wjw2puwnhcgh.streamlit.app/)
+
+[Real Demo](https://shadowadi-sports--classification-app-yaqhgh.streamlit.app/)
