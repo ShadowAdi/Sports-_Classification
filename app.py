@@ -16,7 +16,7 @@ def resize_image(image, output_size):
     return img_resized
 
 
-st.header("Submit An Image")
+st.header("Upload a Image")
 
 option = st.radio("Choose Image Input Method", ("Upload Image", "Provide URL"))
 
